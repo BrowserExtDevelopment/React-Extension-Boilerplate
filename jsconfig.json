@@ -9,7 +9,8 @@
             "options": ["src/options"],
             "content": ["src/content"],
             "assets": ["src/assets"],
-            "components": ["src/components"]
+            "components": ["src/components"],
+            "@redux": ["src/@redux"]
         }
     }
 }
